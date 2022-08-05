@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Projek Akhir</string>
+    <string name="nama_barang">Name</string>
+    <string name="detail">Detail</string>
+    <string name="tipe">Tipe</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="text_description">Text Description</string>
+    <string name="condition">New Brand</string>
+    <string name="buy">Buy</string>
+    <string name="about">About Us</string>
+    <string name="nama_user">Bagus Adi Nugroho</string>
+    <string name="email_user">202020121@mhs.udb.ac.id</string>
+    <string name="by">Dibuat Oleh : \nBagus Adi Nugroho</string>
+</resources>
